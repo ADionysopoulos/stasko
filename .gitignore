@@ -6,7 +6,7 @@ __pycache__/
 # Important ignores for this project
 # All the gpx files
 *.gpx
-*.klm
+*.kml
 
 # All the sqlite files
 *.db
