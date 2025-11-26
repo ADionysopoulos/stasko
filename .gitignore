@@ -9,7 +9,7 @@ __pycache__/
 # All the sqlite files
 *.db
 # All useless files fromnow on
-/gpx_files
+#/gpx_files
 
 # C extensions
 *.so
